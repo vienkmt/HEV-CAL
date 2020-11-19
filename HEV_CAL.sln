@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HEV_CAL", "HEV_CAL.csproj", "{C763289F-767F-428B-9DF3-07A70127EA0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C763289F-767F-428B-9DF3-07A70127EA0E}.Debug|x86.ActiveCfg = Debug|x86
+		{C763289F-767F-428B-9DF3-07A70127EA0E}.Debug|x86.Build.0 = Debug|x86
+		{C763289F-767F-428B-9DF3-07A70127EA0E}.Release|x86.ActiveCfg = Release|x86
+		{C763289F-767F-428B-9DF3-07A70127EA0E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {562C21BC-3620-4A35-B98E-12E249358E93}
+	EndGlobalSection
+EndGlobal
